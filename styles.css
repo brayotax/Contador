@@ -1,0 +1,12 @@
+#Contador {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
